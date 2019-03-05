@@ -99,6 +99,7 @@ i am studying from Hoge A.J. - Effortless English
 |Faculty:|Economics & management|
 |Specialization:|Economist-manager|
 
+
 ### It`s my knowlege
 ![N|Solid](https://webminsk.pro/image/bookjs.jpg)
 	
