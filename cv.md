@@ -102,5 +102,19 @@ i am studying from Hoge A.J. - Effortless English
 
 ### It`s my knowlege
 ![N|Solid](https://webminsk.pro/image/bookjs.jpg)
+
+### Hey Simpson K. i know JS. Maybe lightly, but i know Static scope.
+```sh
+let name = 'I Know';
+function print(){
+  console.log(name);
+}
+function log(){
+  let name = 'JS';
+  console.log(name);
+}
+print(); //I Know
+log(); // JS
+```
 	
 ## Great WebDeveloper, Hell Yeah!
