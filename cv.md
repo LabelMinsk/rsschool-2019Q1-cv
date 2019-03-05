@@ -24,7 +24,7 @@ console.log(squared);
 ```
 I know what you say about:
 ```sh
-... -> ...     Java
+... -> ..     Java
 ```
 BUT  i'm ill of JS and I not have combat experience
 ```sh
