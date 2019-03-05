@@ -46,7 +46,8 @@
 	}
 
 .horizontal_line{
-	margin: 34px 0 0 30px;
+	margin-top: 34px;
+	margin-left:30px;
 	height: 26px;
 	position: relative;	
 }
