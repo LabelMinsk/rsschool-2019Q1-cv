@@ -24,7 +24,7 @@ console.log(squared);
 ```
 I know what you say about:
 ```sh
-... -> ...     Java
+... -> ..     Java
 ```
 BUT  i'm ill of JS and I not have combat experience
 ```sh
@@ -98,6 +98,7 @@ i am studying from Hoge A.J. - Effortless English
 |Graduated from Institute|July 2009 |
 |Faculty:|Economics & management|
 |Specialization:|Economist-manager|
+
 
 ### It`s my knowlege
 ![N|Solid](https://webminsk.pro/image/bookjs.jpg)
